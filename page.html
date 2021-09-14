@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="en">
     <head>
         <meta charset="utf-8">
@@ -53,8 +52,10 @@
                                     <p><a href="https://www.douyin.com/user/MS4wLjABAAAATPdyJqgZVro5_noJMhyDQ4N-JtxyVNMeJ8gVvTCWH7U?enter_method=top_bar&amp;enter_from=main_page"><b>抖音</b></a></p>
                                 </li>
                                 <li>
-                                    <p><a href="https://www.youtube.com/channel/UCBI1IZM1HK6PP9COneQXpog"><b>youtube</b></a></p><span class="h6 type--uppercase"><p><a 
-                                <li> <a href="#"><span class="h6 type--uppercase"> </span></a> </li>
+                                    <p><a href="https://www.youtube.com/channel/UCBI1IZM1HK6PP9COneQXpog"><b>Youtube</b></a></p><span class="h6 type--uppercase"><p>
+                                </p>
+                                </span>
+                                </li>
                             </ul>
                         </div>
                     </div>
