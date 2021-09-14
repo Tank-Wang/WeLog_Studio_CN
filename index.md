@@ -52,7 +52,7 @@
                                     <p><a href="https://www.douyin.com/user/MS4wLjABAAAATPdyJqgZVro5_noJMhyDQ4N-JtxyVNMeJ8gVvTCWH7U?enter_method=top_bar&amp;enter_from=main_page"><b>Tiktok(China)</b></a></p>
                                 </li>
                                 <li>
-                                    <p><a href="https://www.youtube.com/channel/UCBI1IZM1HK6PP9COneQXpog"><b>Youtube</b></a></p><span class="h6 type--uppercase"><p>
+                                    <p><a href="https://www.youtube.com/channel/UCBI1IZM1HK6PP9COneQXpog"><b>YouTube</b></a></p><span class="h6 type--uppercase"><p>
                                 </p>
                                 </span>
                                 </li>
