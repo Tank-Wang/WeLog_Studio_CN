@@ -14,7 +14,7 @@
         <div class="nav-container"> </div>
         <div class="main-container">
             <section class="cover cover-features imagebg parallax" data-overlay="6">
-                <div class="background-image-holder"> <img alt="background" src="img/wedding-4.jpg"> </div>
+                <div class="background-image-holder"> <img alt="background" src="Background.jpg"> </div>
                 <div class="container">
                     <div class="row">
                         <div class="col-md-9 col-lg-7">
