@@ -17,25 +17,25 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-9 col-lg-7">
-                            <h1>WeLog工作室</h1>
-                            <p class="lead">由一群高中生冒充的Filmmaker<br></p>
+                            <h1>WeLog Studio</h1>
+                            <p class="lead">A bunch of high school Filmmakers<br></p>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-4">
                             <div class="feature feature-1 boxed boxed--border bg--white">
-                                <h5>数码评测</h5>
-                                <p>数码产品杂谈：只谈感受不谈参数的评测，以及产品引发的人生与社会的大思考<br><br>我们的数码评测</p> <a href="https://www.bilibili.com/video/BV1oB4y1M7Z7/" target="_self">【思考】我们为什么要带耳机<br></a> </div>
+                                <h5>Reviews</h5>
+                                <p>Focusing more on feelings and perceptions, providing you with our own thoughts and reflections on digital products.<br><br>Our reviews on digital products</p> <a href="https://www.bilibili.com/video/BV1oB4y1M7Z7/" target="_self">[Reflection] Why we are using headphones<br></a> </div>
                         </div>
                         <div class="col-md-4">
                             <div class="feature feature-1 boxed boxed--border bg--white">
-                                <h5>生活VLOG</h5>
-                                <p> 热爱旅游的我们会用镜头记录下生活的点点滴滴<br><br><br>我们的VLOG作品</p> <a href="https://www.bilibili.com/video/BV19f4y1z7Xw/" class="inner-link" target="_self">4K手机旅拍短片 【冬日北京】 华为P40 Pro手持<br></a> </div>
+                                <h5>Vlogs</h5>
+                                <p>With the love and passion for life, we record even the most negligible details that touches us.<br><br><br>Our Vlogs</p> <a href="https://www.bilibili.com/video/BV19f4y1z7Xw/" class="inner-link" target="_self">4K Vlog [Beijing in Winter] Shot on Huawei P40 Pro<br></a> </div>
                         </div>
                         <div class="col-md-4">
                             <div class="feature feature-1 boxed boxed--border bg--white">
-                                <h5>教程</h5>
-                                <p>我们常常会将摄影、剪辑的小技巧分享给大家<br><br>看看我们的教程</p> <a href="https://www.bilibili.com/video/BV1qM4y1M77w/" class="inner-link" target="_self">【一分钟】数码博主都在用的3D屏幕旋转 达芬奇教程 干货 </a> </div>
+                                <h5>Introductory Videos</h5>
+                                <p>Having the idea of sharing in mind, we present everyone with skills and tricks on shooting and editing videos.<br><br>Take a look!</p> <a href="https://www.bilibili.com/video/BV1qM4y1M77w/" class="inner-link" target="_self">[One-Minute-Introduction] 3D screen rotating used by all vloggers</a> </div>
                         </div>
                     </div>
                 </div>
@@ -46,10 +46,10 @@
                         <div class="col-sm-7">
                             <ul class="list-inline">
                                 <li>
-                                    <p><a href="https://space.bilibili.com/421778349"><b>哔哩哔哩</b></a></p>
+                                    <p><a href="https://space.bilibili.com/421778349"><b>Bilibili</b></a></p>
                                 </li>
                                 <li>
-                                    <p><a href="https://www.douyin.com/user/MS4wLjABAAAATPdyJqgZVro5_noJMhyDQ4N-JtxyVNMeJ8gVvTCWH7U?enter_method=top_bar&amp;enter_from=main_page"><b>抖音</b></a></p>
+                                    <p><a href="https://www.douyin.com/user/MS4wLjABAAAATPdyJqgZVro5_noJMhyDQ4N-JtxyVNMeJ8gVvTCWH7U?enter_method=top_bar&amp;enter_from=main_page"><b>Tiktok(China)</b></a></p>
                                 </li>
                                 <li>
                                     <p><a href="https://www.youtube.com/channel/UCBI1IZM1HK6PP9COneQXpog"><b>Youtube</b></a></p><span class="h6 type--uppercase"><p>
@@ -60,7 +60,7 @@
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-sm-7"> <span class="type--fine-print">welogmediaofficial@gmail.com<br>© <span class="update-year">2021</span>&nbsp;WeLog工作室<br></span>
+                        <div class="col-sm-7"> <span class="type--fine-print">welogmediaofficial@gmail.com<br>© <span class="update-year">2021</span>&nbsp;WeLog Studio<br></span>
                             <a class="type--fine-print" href="#"> </a>
                         </div>
                     </div>
