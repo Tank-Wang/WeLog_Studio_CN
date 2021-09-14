@@ -18,6 +18,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-9 col-lg-7">
+                            <img src = "logo.png">
                             <h1>WeLog Studio</h1>
                             <p class="lead">A bunch of high school Filmmakers<br></p>
                         </div>
