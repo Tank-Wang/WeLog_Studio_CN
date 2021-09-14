@@ -25,7 +25,7 @@
                         <div class="col-md-4">
                             <div class="feature feature-1 boxed boxed--border bg--white">
                                 <h5>Reviews</h5>
-                                <p>Focusing more on feelings and perceptions, providing you with our own thoughts and reflections on digital products.<br><br>Our reviews on digital products</p> <a href="https://www.bilibili.com/video/BV1oB4y1M7Z7/" target="_self">[Reflection] Why we are using headphones<br></a> </div>
+                                <p>Focusing more on feelings and perceptions, we provide you with our own insights and reflections on digital products.<br><br>Our reviews on digital products</p> <a href="https://www.bilibili.com/video/BV1oB4y1M7Z7/" target="_self">[Reflection] Why we are using headphones<br></a> </div>
                         </div>
                         <div class="col-md-4">
                             <div class="feature feature-1 boxed boxed--border bg--white">
