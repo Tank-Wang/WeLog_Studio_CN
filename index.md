@@ -35,7 +35,7 @@
                         <div class="col-md-4">
                             <div class="feature feature-1 boxed boxed--border bg--white">
                                 <h5>Introductory Videos</h5>
-                                <p>Having the idea of sharing in mind, we present everyone with skills and tricks on shooting and editing videos.<br><br>Take a look!</p> <a href="https://www.bilibili.com/video/BV1qM4y1M77w/" class="inner-link" target="_self">[One-Minute-Introduction] 3D screen rotating used by all vloggers</a> </div>
+                                <p>Having the idea of sharing in mind, we present everyone with skills and tricks on shooting and editing videos.<br><br>Take a look!</p> <a href="https://www.bilibili.com/video/BV1qM4y1M77w/" class="inner-link" target="_self">[One-Minute-Introduction] 3D screen rotating used by all Youtubers</a> </div>
                         </div>
                     </div>
                 </div>
