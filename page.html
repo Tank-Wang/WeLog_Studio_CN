@@ -7,6 +7,7 @@
         <link href="css/stack-interface.css" rel="stylesheet" type="text/css" media="all" />
         <link href="css/theme.css" rel="stylesheet" type="text/css" media="all" />
         <link href="css/custom.css" rel="stylesheet" type="text/css" media="all" />
+        <link href="We_Log_Icon.ico" rel="icon" type="image/x-icon">
 
     </head>
     <body data-smooth-scroll-offset="77">
