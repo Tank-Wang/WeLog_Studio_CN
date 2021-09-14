@@ -30,7 +30,7 @@
                         <div class="col-md-4">
                             <div class="feature feature-1 boxed boxed--border bg--white">
                                 <h5>Vlogs</h5>
-                                <p>With the love and passion for life, we record even the most negligible details that touches us.<br><br><br>Our Vlogs</p> <a href="https://www.bilibili.com/video/BV19f4y1z7Xw/" class="inner-link" target="_self">4K Vlog [Beijing in Winter] Shot on Huawei P40 Pro<br></a> </div>
+                                <p>With the love and passion for life, we record even the most negligible details that touch us.<br><br><br>Our Vlogs</p> <a href="https://www.bilibili.com/video/BV19f4y1z7Xw/" class="inner-link" target="_self">4K Vlog [Beijing in Winter] Shot on Huawei P40 Pro<br></a> </div>
                         </div>
                         <div class="col-md-4">
                             <div class="feature feature-1 boxed boxed--border bg--white">
